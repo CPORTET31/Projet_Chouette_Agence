@@ -64,7 +64,7 @@
 
 .contact-input-textarea:focus + .label-textarea, .contact-input-textarea:not(:placeholder-shown) + .label-textarea {
     bottom: 205px;
-    font-size: 0.85rem;
+    font-size: 1.2rem;
 }
 
 .label-textarea {
